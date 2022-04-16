@@ -1,0 +1,21 @@
+/* Bootstrap overwrite */
+
+.link {
+    color:  #0085A1;
+}
+
+.difffont {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.linktext {
+    text-align: center;
+}
+
+.subsize {
+    font-size: smaller;
+}
+
+.centertext {
+    text-align: center;
+}

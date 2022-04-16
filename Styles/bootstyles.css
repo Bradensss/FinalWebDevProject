@@ -1,0 +1,82 @@
+/* tableau */
+
+.tabBack {
+    background: url(../Images/Tableau2-Background.jpeg);
+    background-size: 1500px;
+}
+ 
+/* LAYOUT */
+body {
+    
+    font-family: sans-serif;
+    color: rgb(20, 38, 54);
+}
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    height: 35px;
+    z-index: 2;
+    text-align: right;
+    border-bottom: solid 1px darkslategray;
+    font-size: larger;
+}
+
+.mainbody {
+    top: 50px;
+    bottom: 90px;
+    left: 150px;
+    right: 150px;
+}
+
+.mtext {
+    color: rgb(35, 35, 94);
+    font-size: large;
+    text-align: left;
+}
+
+.footer {
+    bottom: 10px;
+    height: 75px;
+    left: 10px;
+    right: 10px;
+    border-top: solid 1px black;
+    position: fixed;
+    background-color: rgb(137, 173, 202);
+}
+
+.ftext {
+    text-align: center;
+    font-size: smaller;
+}
+
+
+
+
+/* Bootstrap overwrite */
+/* font-family, color, text-alignment */
+
+/* .link {
+    color:  #0085A1;
+}
+
+.difffont {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.linktext {
+    text-align: center;
+}
+
+.subsize {
+    font-size: smaller;
+} */
+
+
+/* centertext  */
+
